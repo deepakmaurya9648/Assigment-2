@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/assigment-2/static/css/main.5cc4e481.chunk.css",
+    "main.js": "/assigment-2/static/js/main.f9f5eb10.chunk.js",
+    "main.js.map": "/assigment-2/static/js/main.f9f5eb10.chunk.js.map",
+    "runtime-main.js": "/assigment-2/static/js/runtime-main.c1807a90.js",
+    "runtime-main.js.map": "/assigment-2/static/js/runtime-main.c1807a90.js.map",
+    "static/js/2.d2b2d279.chunk.js": "/assigment-2/static/js/2.d2b2d279.chunk.js",
+    "static/js/2.d2b2d279.chunk.js.map": "/assigment-2/static/js/2.d2b2d279.chunk.js.map",
+    "index.html": "/assigment-2/index.html",
+    "static/css/main.5cc4e481.chunk.css.map": "/assigment-2/static/css/main.5cc4e481.chunk.css.map",
+    "static/js/2.d2b2d279.chunk.js.LICENSE.txt": "/assigment-2/static/js/2.d2b2d279.chunk.js.LICENSE.txt",
+    "static/media/civil.b8496335.jpg": "/assigment-2/static/media/civil.b8496335.jpg",
+    "static/media/computerScience.83f60f92.jpg": "/assigment-2/static/media/computerScience.83f60f92.jpg",
+    "static/media/electronics.43849e3e.jpg": "/assigment-2/static/media/electronics.43849e3e.jpg",
+    "static/media/machenical.e249ff0d.jpg": "/assigment-2/static/media/machenical.e249ff0d.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c1807a90.js",
+    "static/js/2.d2b2d279.chunk.js",
+    "static/css/main.5cc4e481.chunk.css",
+    "static/js/main.f9f5eb10.chunk.js"
+  ]
+}
