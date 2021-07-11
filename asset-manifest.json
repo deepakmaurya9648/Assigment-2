@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/assigment-2/static/css/main.5cc4e481.chunk.css",
+    "main.css": "/assigment-2/static/css/main.17e2ea88.chunk.css",
     "main.js": "/assigment-2/static/js/main.f9f5eb10.chunk.js",
     "main.js.map": "/assigment-2/static/js/main.f9f5eb10.chunk.js.map",
     "runtime-main.js": "/assigment-2/static/js/runtime-main.c1807a90.js",
@@ -8,7 +8,7 @@
     "static/js/2.d2b2d279.chunk.js": "/assigment-2/static/js/2.d2b2d279.chunk.js",
     "static/js/2.d2b2d279.chunk.js.map": "/assigment-2/static/js/2.d2b2d279.chunk.js.map",
     "index.html": "/assigment-2/index.html",
-    "static/css/main.5cc4e481.chunk.css.map": "/assigment-2/static/css/main.5cc4e481.chunk.css.map",
+    "static/css/main.17e2ea88.chunk.css.map": "/assigment-2/static/css/main.17e2ea88.chunk.css.map",
     "static/js/2.d2b2d279.chunk.js.LICENSE.txt": "/assigment-2/static/js/2.d2b2d279.chunk.js.LICENSE.txt",
     "static/media/civil.b8496335.jpg": "/assigment-2/static/media/civil.b8496335.jpg",
     "static/media/computerScience.83f60f92.jpg": "/assigment-2/static/media/computerScience.83f60f92.jpg",
@@ -18,7 +18,7 @@
   "entrypoints": [
     "static/js/runtime-main.c1807a90.js",
     "static/js/2.d2b2d279.chunk.js",
-    "static/css/main.5cc4e481.chunk.css",
+    "static/css/main.17e2ea88.chunk.css",
     "static/js/main.f9f5eb10.chunk.js"
   ]
 }
