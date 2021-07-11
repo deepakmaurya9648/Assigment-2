@@ -89,6 +89,7 @@ nav a h3{
 }
 .course-detail .row .col-1 p{
   font-size:20px;
+  text-align: left;
 }
 .course-detail .row .col-1 a{
   text-decoration: none;
@@ -96,4 +97,17 @@ nav a h3{
   color: #fff;
   padding:10px 18px;
   border-radius: 10px;
+}
+
+@media (max-width: 480px) {
+  .course-detail .row{
+    flex-direction:column-reverse;
+  }
+  .nav-links a{
+    margin-left: 20px;
+  }
+  .course-detail .row .col-2 img{
+    width: 280px;
+    height: 280px;
+  }
 }
